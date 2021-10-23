@@ -23,14 +23,14 @@ export const Profile = () => {
                                     <Col md={12}>
                                         <div className="profileInfo">
 
-                                            <h1>Name: Saidul Islam</h1>
-                                            <p>Email: saidul@gmail.com</p>
-                                            <p>Phone: 01632663430</p>
+                                            <h1>Name: Anika Ahammed</h1>
+                                            <p>Email: anika@gmail.com</p>
+                                            <p>Phone: 01954111469</p>
                                             <p>Phone Extra: 01632663430</p>
-                                            <p>Blood Group: AB+</p>
-                                            <p>Gender: Male</p>
+                                            <p>Blood Group: A+</p>
+                                            <p>Gender: Female</p>
                                             <p>Address: Narayanganj,Bangladesh</p>
-                                            <p>Thana: Fatullah</p>
+                                            <p>Thana: Signboard</p>
                                             <p>District: Narayanganj</p>
                                         </div>
                                     </Col>
